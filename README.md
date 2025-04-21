@@ -91,4 +91,4 @@ This project is <b>open-source</b> and available under the <b>MIT License</b>.
 
 ---
 
-<p align="center">🚀 Built with ❤️ by <strong>Your Ameen</strong></p>
+<p align="center">🚀 Built with ❤️ by <strong>Ameen</strong></p>
