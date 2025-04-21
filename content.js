@@ -1,0 +1,1 @@
+// Future content script functionality can be added here
